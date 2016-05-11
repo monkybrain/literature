@@ -12,3 +12,6 @@ Monks receive donations through contact with people (NFC or similar future tech)
 
 ## Setting
 Last ride through town in a self-driving vehicle before 'turning in the keys', observing a not-so-distant-future blockchain world while reminiscing his past.
+
+## Backstory
+One of the first globally renowned contract coders (Solidity), later DAO activist. This made him a target for guardians of the old, centralized order. Now getting off the blockchain for a multitude of reasons...
